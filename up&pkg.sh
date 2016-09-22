@@ -13,7 +13,7 @@
 
 #IMPORTANTE: Si algunos programas no se instalan es necesario agregar primero el repositorio.
 
-su chmod a+x configup.sh
+su chmod a+x up&pkg.sh
 clear
 k20x1(){
 echo "\033[0;32m||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||"
